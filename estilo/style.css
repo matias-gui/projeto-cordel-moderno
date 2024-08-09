@@ -72,11 +72,11 @@ section.imagem > p{
     text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.401);
 }
 section#abelha{
-    background: url(/desafio/d06/imagens/background001.jpg) 100% 100% no-repeat fixed ;
+    background: url(../imagens/background001.jpg) 100% 100% no-repeat fixed ;
     background-size: cover;
 }
 section#cartas{
-    background: url(/desafio/d06/imagens/background002.jpg) 100% 100% no-repeat fixed ;
+    background: url(../imagens/background002.jpg) 100% 100% no-repeat fixed ;
     background-size: cover;
 }
 footer{
